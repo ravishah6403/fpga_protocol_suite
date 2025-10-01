@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="Nokia5110_Test" Register="33" Lut="228" T_Register="61(33)" T_Lut="263(228)">
+ <SubModule name="SPI0" Register="28" Lut="35" T_Register="28(28)" T_Lut="35(35)"/>
+</Module>

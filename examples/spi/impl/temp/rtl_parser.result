@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "E:/FPGA Projects/spi/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "Nokia5110_Test",
+  "ModuleFile" : "E:/FPGA Projects/spi/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "Nokia5110_Test",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/FPGA Projects/spi/src/top.v",
+    "InstLine" : 22,
+    "InstName" : "SPI0",
+    "ModuleFile" : "E:/FPGA Projects/spi/src/SPI_Master.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "SPI_Master"
+   }
+  ]
+ }
+]

@@ -1,0 +1,29 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'E:\FPGA Projects\spi\src\SPI_Master.v'
+Analyzing Verilog file 'E:\FPGA Projects\spi\src\top.v'
+Compiling module 'Nokia5110_Test'("E:\FPGA Projects\spi\src\top.v":1)
+Extracting RAM for identifier 'screenBuffer'("E:\FPGA Projects\spi\src\top.v":35)
+Compiling module 'SPI_Master(CLKS_PER_HALF_BIT=25)'("E:\FPGA Projects\spi\src\SPI_Master.v":1)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("E:\FPGA Projects\spi\src\top.v":58)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("E:\FPGA Projects\spi\src\top.v":169)
+NOTE  (EX0101) : Current top module is "Nokia5110_Test"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "E:\FPGA Projects\spi\impl\gwsynthesis\spi.vg" completed
+[100%] Generate report file "E:\FPGA Projects\spi\impl\gwsynthesis\spi_syn.rpt.html" completed
+GowinSynthesis finish
