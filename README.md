@@ -8,4 +8,4 @@ This project provides **parameterized IP cores** for commonly used digital inter
 ## Features
 - **I²C** – configurable clock speed, supports multiple devices.  
 - **UART** – parameterized baud rate, data bits, and stop bits.  
-- **SPI** – master/slave support, configurable modes (CPOL/CPHA).  
+- **SPI** – configurable modes (CPOL/CPHA).  
